@@ -17,3 +17,10 @@ __pycache__
 .vscode/
 node_modules/
 .backportrc.json
+# local keys
+git_key
+git_key.pub
+
+# local keys
+git_key
+git_key.pub
